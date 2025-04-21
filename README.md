@@ -22,7 +22,7 @@ The dataset used for training the sentiment analysis model consists of 219,293 t
 
 The dataset is provided in a CSV file format, with each entry containing the tweet text and its corresponding sentiment label.
 
-Here are some examples of the dataset:
+Here are some examples of the dataset: 
 
 1. " ChatGPT about @kunalb11 - English essay writing is going to go for a toss! https:// t.co/8t2GKX3Lcl " ****=>**** ****Bad****
 2. " Me: How are you doing?\n\nChatGPT: As a language model trained by OpenAI, I don't have the ability to feel emotions or have experiences. I'm a computer program designed to provide information and answer questions to the best of my ability. Is there something else you'd like to ask? https:// t.co/R28Hk0WgAY " ****=>**** ****Good****
